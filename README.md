@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <code>👷 Speciality: ML engineer / Data Scientist</code><br>
-<code>🧑‍💻 Languages: Python</code>
-<code>📦 Tech stack: Spark</code>
-<code>💬 telegram: [@happymad_p]([https://telegram.me/happymad_p]</code>
+<code>👩💻Languages: Python</code>
+<code>📦 Tech stack: Spark, Jupyter Notebook, Colab</code>
+<code>💬 telegram: [@happymad_p](https://telegram.me/happymad_p)</code>
 <code>📫 [yavoronova1997@gmail.com](yavoronova1997@gmail.com)</code>
 
 <!--
